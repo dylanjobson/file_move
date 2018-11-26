@@ -12,7 +12,7 @@ You will need to enter your own file path for the source and destination. If you
 
 ## Choosing an Extension 
 
-You can input any extension your would like using the format provided in the code. For example, if you wish to move .mp4 files, type: 
+You can input any extension you would like using the format provided in the code. For example, if you wish to move .mp4 files, type: 
 ```
 extension = '*.mp4'
 ```
